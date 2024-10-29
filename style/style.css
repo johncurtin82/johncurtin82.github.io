@@ -9,7 +9,7 @@
    
   }
 
-  .first{
+  .first div{
 
     background-color: orange;
     width: 100%;
@@ -33,6 +33,11 @@
     background-color: aquamarine;
   }
   
+  .bodyContact{
+    background-color: aquamarine;
+
+  }
+  /*
   .box-1{
     flex:2;
   
@@ -47,5 +52,5 @@
     flex:1;
     
   }
-
+*/
 
