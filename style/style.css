@@ -26,7 +26,13 @@
 
 
 }
+ /*.container {
+  background-color: aquamarine;
+ }
+ body{
+  background-color: wheat ;
 
+ } */
   .container-1 div{
     border:1px #ccc solid;
     padding:10px;
