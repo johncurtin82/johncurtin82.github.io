@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+button{
+    line-height: 30px;
+    width: 150px;
+}
+#game-container{
+    width: 50%;
+    background-color: #14a5bf;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+#resultsDisplay{
+    align-items: center;
+    font-size: 1.2em;
+}
