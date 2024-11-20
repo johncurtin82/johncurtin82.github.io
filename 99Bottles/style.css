@@ -1,0 +1,27 @@
+#main{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+    background-color: wheat;
+
+}
+#container{
+    font-family: Arial, sans-serif;
+    border: 3px solid;
+    padding: 10px;
+    background-color: whitesmoke;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-image: url(/images/bottlesofbeer.png);
+}
+button{
+    line-height: 30px;
+    width: 150px;
+    
+}
