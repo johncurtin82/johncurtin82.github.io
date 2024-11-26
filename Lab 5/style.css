@@ -1,0 +1,30 @@
+#array-container{
+    font-family: Arial, sans-serif;
+    border: 3px solid;
+    padding: 10px;
+    background-color: whitesmoke;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+
+}
+body{
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+    
+}
+button{
+    padding: 32px 16px;
+    font-size: 20px;
+    background-color: #008CBA;
+    border: none;
+    color: whitesmoke;
+    text-align: center;
+    display: inline-block;
+}
